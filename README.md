@@ -58,4 +58,4 @@ This is an educational project created during my studies. It represents one of m
 
 ---
 
-**Created in April 2024 as a class activity.**
+**Created in April 21 2024 as a class activity.**
